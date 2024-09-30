@@ -1,6 +1,6 @@
 # Merhaba, Ben Yusuf Eroğlu! 👋
 
-### Bilgisayar Programcısı | Bilgisayar Bilimi Tutkunu | Yazılım Şirketi Sahibi
+### Bilgisayar Programcısı 
 
 ![Profile views](https://komarev.com/ghpvc/?username=erogluyusuf&color=brightgreen)
 
