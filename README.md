@@ -63,4 +63,4 @@ Ben Yusuf Eroğlu, **[Globipedi](https://github.com/globipedi)** adlı yazılım
 Projelerime katkıda bulunmak için lütfen [GitHub profilimi](https://github.com/erogluyusuf) ziyaret edin ve projelere PR gönderin.
 
 **Globipedi hakkında daha fazla bilgi almak isterim.**  
-Daha fazla bilgi için [Globilpedi GitHub Hesabımıza](https://github.com/globipedi) göz atabilirsiniz.
+Daha fazla bilgi için [Globipedi GitHub Hesabımıza](https://github.com/globipedi) göz atabilirsiniz.
