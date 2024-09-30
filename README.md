@@ -17,7 +17,7 @@ Ben Yusuf Eroğlu, **[Globilpedi](https://github.com/globilpedi)** adlı yazıl�
 **[Globilpedi](https://github.com/globilpedi)**, yazılım çözümleri sunan bir teknoloji şirketidir. Geliştirdiğimiz projeleri ve sunduğumuz hizmetleri keşfetmek için [Globilpedi GitHub](https://github.com/globilpedi) hesabımızı inceleyebilirsiniz.
 
 ### 📫 Bana Ulaşın:
-- LinkedIn: [Yusuf Eroğlu](#)
+- LinkedIn: [Yusuf Eroğlu](https://linkedin.com/in/erogluyusuf)
 - E-posta: yusuf@example.com
 
 ### 📊 GitHub İstatistiklerim:
