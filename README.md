@@ -8,14 +8,14 @@
 
 ## 🚀 Hakkımda
 
-Ben Yusuf Eroğlu, **[Globilpedi](https://github.com/globilpedi)** adlı yazılım şirketimin kurucusuyum ve aynı zamanda bilgisayar programcısıyım. Bilgisayar bilimine olan tutkum, yenilikçi projeler geliştirmem için bana ilham veriyor. Sürekli öğrenmeyi ve teknolojiyi keşfetmeyi seven biriyim.
+Ben Yusuf Eroğlu, **[Globipedi](https://github.com/globipedi)** adlı yazılım şirketimin kurucusuyum ve aynı zamanda bilgisayar programcısıyım. Bilgisayar bilimine olan tutkum, yenilikçi projeler geliştirmem için bana ilham veriyor. Sürekli öğrenmeyi ve teknolojiyi keşfetmeyi seven biriyim.
 
 ---
 
 ## 🔭 Üzerinde Çalıştığım Projeler:
 
 - **[Element Click Tracker](https://github.com/erogluyusuf/element-click-tracker)**: Kullanıcıların tıklamalarını izleyen ve tıklama sayılarına göre emojiler ekleyen bir Chrome uzantısı.
-- **Globilpedi Projeleri**: Şirketim **Globilpedi** bünyesinde geliştirdiğimiz projeleri keşfetmek için [buraya tıklayın](https://github.com/globilpedi).
+- **Globipedi Projeleri**: Şirketim **Globipedi** bünyesinde geliştirdiğimiz projeleri keşfetmek için [buraya tıklayın](https://github.com/globipedi).
 
 ---
 
@@ -31,16 +31,16 @@ Ben Yusuf Eroğlu, **[Globilpedi](https://github.com/globilpedi)** adlı yazıl�
 
 ---
 
-## 🌍 Globilpedi Hakkında:
+## 🌍 Globipedi Hakkında:
 
-**[Globilpedi](https://github.com/globilpedi)**, yazılım çözümleri sunan bir teknoloji şirketidir. Geliştirdiğimiz projeler ve sunduğumuz hizmetler ile teknoloji dünyasında fark yaratmayı hedefliyoruz.
+**[Globipedi](https://github.com/globipedi)**, yazılım çözümleri sunan bir teknoloji şirketidir. Geliştirdiğimiz projeler ve sunduğumuz hizmetler ile teknoloji dünyasında fark yaratmayı hedefliyoruz.
 
 ---
 
 ## 📫 Bana Ulaşın:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/erogluyusuf/)](https://linkedin.com/in/erogluyusuf)
-[![Mail Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:yusuf@example.com)](mailto:yusuf@example.com)
+[![Mail Badge](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:yusuferoglu1957@gmail.com)](mailto:yusuferoglu1957@gmail.com)
 
 ---
 
@@ -62,5 +62,5 @@ Ben Yusuf Eroğlu, **[Globilpedi](https://github.com/globilpedi)** adlı yazıl�
 **Projelerinize nasıl katkıda bulunabilirim?**  
 Projelerime katkıda bulunmak için lütfen [GitHub profilimi](https://github.com/erogluyusuf) ziyaret edin ve projelere PR gönderin.
 
-**Globilpedi hakkında daha fazla bilgi almak isterim.**  
-Daha fazla bilgi için [Globilpedi GitHub Hesabımıza](https://github.com/globilpedi) göz atabilirsiniz.
+**Globipedi hakkında daha fazla bilgi almak isterim.**  
+Daha fazla bilgi için [Globilpedi GitHub Hesabımıza](https://github.com/globipedi) göz atabilirsiniz.
