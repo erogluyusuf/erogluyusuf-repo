@@ -14,7 +14,7 @@ Ben Yusuf Eroğlu, **[Globipedi](https://github.com/globipedi)** adlı yazılım
 
 ## 🔭 Üzerinde Çalıştığım Projeler:
 
-- **[Element Click Tracker](https://github.com/erogluyusuf/element-click-tracker)**: Kullanıcıların tıklamalarını izleyen ve tıklama sayılarına göre emojiler ekleyen bir Chrome uzantısı.
+- **[EmojiNotes](https://github.com/erogluyusuf/emojinotes)**: Kullanıcıların tıklamalarını izleyen ve tıklama sayılarına göre emojiler ekleyen bir Chrome uzantısı.
 - **Globipedi Projeleri**: Şirketim **Globipedi** bünyesinde geliştirdiğimiz projeleri keşfetmek için [buraya tıklayın](https://github.com/globipedi).
 
 ---
