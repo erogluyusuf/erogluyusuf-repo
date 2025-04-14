@@ -64,3 +64,27 @@ Projelerime katkıda bulunmak için lütfen [GitHub profilimi](https://github.co
 
 **Globipedi hakkında daha fazla bilgi almak isterim.**  
 Daha fazla bilgi için [Globipedi GitHub Hesabımıza](https://github.com/globipedi) göz atabilirsiniz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 🚀 En Son Projelerim
+
+<!--START_SECTION:repos-->
+Yükleniyor...
+<!--END_SECTION:repos-->
+
