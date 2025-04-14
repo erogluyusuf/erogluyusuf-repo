@@ -1,0 +1,33 @@
+name: Günlük README Güncellemesi
+
+on:
+  schedule:
+    - cron: "0 8 * * *" # Her gün saat 08:00'de çalışır
+  workflow_dispatch: # Elle tetiklenebilir
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Repos'u klonla
+        uses: actions/checkout@v3
+
+      - name: Node.js kur
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Bağımlılıkları yükle
+        run: npm install
+
+      - name: Script'i çalıştır
+        run: node fetch-repos.js
+
+      - name: README'yi güncelle ve commit et
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "📦 README otomatik güncellendi"
+          git push
